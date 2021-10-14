@@ -1,6 +1,6 @@
 # HenSilver 2.0d
 
-Features
+# Features
 Homebrew Enabler
 Jailbreak
 Sandbox Escape
@@ -17,7 +17,7 @@ UART Enabler
 Never Disable Screenshot
 Remote Play Enabler
 
-Contributors
+# Contributors
 Massive credits to the following:
 systro
 qwertyoruiopz
