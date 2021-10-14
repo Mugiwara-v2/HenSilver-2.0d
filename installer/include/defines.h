@@ -2,8 +2,8 @@
 #define __DEFINES_H__
 #pragma once
 
-#define VERSION "2.0"
-#define DEV "x82 7.55 By @84Ciss (Spoofed 9.0)"
+#define VERSION "2.0d"
+#define DEV "x82 7.55 By @84Ciss"
 
 //#define DEBUG_SOCKET
 
