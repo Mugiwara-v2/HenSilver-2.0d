@@ -17,6 +17,7 @@
 - Remote Play Enabler
 - todex 
 - kernel-clock 
+- speed load game
 
 # Contributors
 - Massive credits to the following:
