@@ -212,7 +212,7 @@ int install_payload(struct thread *td, struct install_payload_args* args)
   uint8_t *kmem;
 
   //setloginpatch                   
- 	/*kmem = (uint8_t *)(kernel_base + 0x0037CF6C);
+ 	kmem = (uint8_t *)(kernel_base + 0x0037CF6C);
 	kmem[0] = 0x48;
 	kmem[1] = 0x31;
 	kmem[2] = 0xC0;
@@ -233,7 +233,7 @@ int install_payload(struct thread *td, struct install_payload_args* args)
 	kmem[1] = 0x00;
 	kmem[2] = 0x00;
 	kmem[3] = 0x00;
-	kmem[4] = 0x00;*/
+	kmem[4] = 0x00;
 	kmem = (uint8_t *)(kernel_base + global_settings_base);
 	kmem[0x36] |= 0x14;
 	kmem[0x59] |= 0x01;
