@@ -29,7 +29,7 @@
 - Joonie
 - Vortex
 - zecoxao
-- SiSTRo
+- SiSTRo °/°
 - SocraticBliss
 - ChendoChap
 - Biorn1950
