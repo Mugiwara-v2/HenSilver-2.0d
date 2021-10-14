@@ -18,18 +18,17 @@
 - todex and clock
 
 # Contributors
-Massive credits to the following:
-84ciss
-systro
-qwertyoruiopz
-Specter
-flat_z
-idc
-Joonie
-Vortex
-zecoxao
-SiSTRo
-SocraticBliss
-ChendoChap
-Biorn1950
-Anonymous
+- Massive credits to the following:
+- 84ciss
+- qwertyoruiopz
+- Specter
+- flat_z
+- idc
+- Joonie
+- Vortex
+- zecoxao
+- SiSTRo
+- SocraticBliss
+- ChendoChap
+- Biorn1950
+- Anonymous
