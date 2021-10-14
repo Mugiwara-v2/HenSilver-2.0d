@@ -15,7 +15,8 @@
 - UART Enabler
 - Never Disable Screenshot
 - Remote Play Enabler
-- todex and clock
+- todex 
+- kernel-clock 
 
 # Contributors
 - Massive credits to the following:
